@@ -2,31 +2,94 @@
 
 ## 基本情報
 
-| key     | value                                    |
-| ------- | ---------------------------------------- |
-| Name    |                                          |
-| Blog    | [ふーばーブログ](http://foobar.blog.com) |
-| Twitter | [@foobar](https://twitter.com/foobar)    |
+| key     | value                                                     |
+| ------- | --------------------------------------------------------- |
+| Name    | 小林 巧樹（こばやし よしき）                              |
+| Site    | [code-plum](https://code-plum.dev/)                       |
+| Twitter | [@codeplumdev](https://twitter.com/codeplumdev)           |
+| Qiita   | [@yoshiqiita](https://qiita.com/yoshiplum)                |
+| Service | [コードスニペット共有サイト Snippy](https://snippy.site/) |
 
 ## スキル
 
-### 言語
+### 言語（職務経歴有）
 
+- JavaScript（ES5、ES6）
 - Ruby
 - PHP
-- Java
-- などなど
+- Golang
 
 ### フレームワーク
 
+- Express
+- Bootstrap3、4
+- jQuery
 - Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- Gin
 
-### その他
+### 言語、フレームワーク（業務未使用）
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Vue.js
+- Vuetify
+- ReactNative
+- Python(numpy,pandas)
+- Perl(CGI)
+- Flutter
+- RSpec
+- Jest
+
+### インフラ
+
+- Linux (RedHat 系,Debian 系)
+- VMWare
+
+- AWS
+
+  - EC2
+  - RDS
+  - Lambda
+  - S3
+  - CloudFront
+  - API Gateway
+  - ECR,ECS
+  - DynamoDB
+  - CloudFormation
+  - Cognito
+  - Amplify
+
+- オンプレミス
+
+  - 物理サーバ
+    - HP Proliant シリーズ
+    - IBM Power
+  - FireWall
+  - L2SW/L3SW
+    - Cisco
+  - LoadBalancer
+
+    - A10
+
+  - 物理サーバの監視運用保守、配線、ラッキング
+
+### ミドルウェア
+
+- apache2(2.2,2.4)
+- Nginx
+- MySQL
+- MariaDB
+- PostgreSQL
+- Keepalived
+- Fluentd
+
+### ツール
+
+- Docker
+
+  - Dockerfile
+  - docker-compose
+
+- VisualStudioCode
+- Vim
 
 ## 言語
 
@@ -34,49 +97,56 @@
   - ネイティブ
 - 英語
   - かんたんな日常会話ができる
-  - TOEIC: xxx 点
+  - サンノゼに出張経験有り
 
 ## 強み
 
+- キャッチアップの速さ
+- 問題解決能力
+- 調整力
+- ストイックな精神
+
 ## やったことはないが興味があるもの
+
+- ブロックチェーン開発
+- エンジニアコミュニティの運営
+- Udemy の講師
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2018/09 - 現在 : 株式会社 KDDI エボルバ
 
-職務: Web アプリケーションエンジニア（例）
+職務: Web アプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### 上流から下流、サービス運用から障害対応、技術リーダー兼フルスタックエンジニア
 
 - 職務内容の詳細を箇条書きでかく
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+### 2019/05 - 現在 : 株式会社インフラトップ(DMM WebCamp)
 
-職務: サーバーサイドエンジニア
+#### 職務: プログラミングメンター
 
-#### 職務内容の名前（レストラン検索とか）
+- 職務内容の詳細を箇条書きでかく
+
+### 2014/04 - 2017/08 : 日本エンタープライズ株式会社
+
+#### 職務: サーバエンジニア、インフラエンジニア、監視運用保守
 
 - 職務内容の詳細を箇条書きでかく
 
 ## 課外活動
 
-### 社外プロジェクト
+### 社外プロジェクト(副業)
 
-- [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-- [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+- [DMM WebCamp](https://web-camp.io/)
+- [CloudWorks](https://crowdworks.jp/public/employees/1255298)
 
-### 過去の登壇資料
+### 資格
 
-- [Speaker Deck](Speaker Deck の自分の資料のページとか)
+- AWS Solutions Architect Associate(2019/12 〜)
+- 認定スクラムマスター(2020/03 予定)
 
-### 受賞歴
+### 運用サービス、ホームページ
 
-- [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-
-- [書籍の名前](Amazonのリンクとか)
-- [Qiita](Qiitaの自分のプロフィールのリンクとか)
-- [ネットメディアの記事](記事のリンクとか)
-- [SoftwareDesign や WEB+DB のこの月の特集](その月のアーカイブのリンクとか)
-- [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+- [コードスニペット共有サービス Snippy](https://snippy.site)
+- [yoshi.'s Portfolio](https://code-plum.dev)
