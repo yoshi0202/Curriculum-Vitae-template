@@ -29,68 +29,40 @@
 
 ### 言語、フレームワーク（業務未使用）
 
-- Vue.js
-- Vuetify
-- ReactNative
+- Vue.js,Vuetify,ReactNative
 - Python(numpy,pandas)
 - Perl(CGI)
 - Flutter
-- RSpec
-- Jest
+- RSpec,Jest
 
 ### インフラ
 
-- Linux (RedHat 系,Debian 系)
-- VMWare
+- Linux (RedHat 系,Debian 系),VMWare
 
 - AWS
 
-  - EC2
-  - RDS
-  - Lambda
-  - S3
-  - ElastiCache
-  - SES
-  - CloudFront
-  - API Gateway
+  - EC2,RDS,S3,ElastiCache
+  - API Gateway,Lambda,DynamoDB,SES,SQS
+  - CloudFront,CloudFormation
   - ECR,ECS
-  - DynamoDB
-  - CloudFormation
-  - Cognito
-  - Amplify
+  - Cognito,Amplify
 
 - オンプレミス
-
   - 物理サーバ
-    - HP Proliant シリーズ
-    - IBM Power
   - FireWall
   - L2SW/L3SW
-    - Cisco
   - LoadBalancer
-
-    - A10
-
   - 物理サーバの監視運用保守、配線、ラッキング
 
 ### ミドルウェア
 
-- apache2(2.2,2.4)
-- Nginx
-- MySQL
-- MariaDB
-- PostgreSQL
-- Keepalived
-- Fluentd
-- Redis
+- apache2(2.2,2.4),Nginx
+- MySQL,MariaDB,PostgreSQL,Redis,memcached
+- Keepalived,Fluentd
 
 ### ツール
 
 - Docker
-
-  - Dockerfile
-  - docker-compose
-
 - VisualStudioCode
 - Vim
 
@@ -123,21 +95,7 @@
 
 - 主な職務
 
-  - 要件定義
-  - 設計
-  - 実装
-  - 単体、結合テスト
-
-- 利用技術、ツール
-
-  - Node.js
-  - RDB(MariaDB)
-  - WebSocket
-  - Socket.io
-  - Redis
-  - jQuery
-  - BootStrap
-  - Git
+  - 要件定義から製造、テストまでを一貫して担当
 
 - 実績(バックエンド)
 
@@ -149,7 +107,6 @@
 
 - 実績(フロントエンド)
   - エンドユーザ側機能の上流から下流まで担当
-  - 大量のコードを WebPack でモジュール化、管理品質を向上
   - Adobe XD を社内導入し画面デザイン作成の工数削減
   - デザイナーに向けた Git 教育を実施、実装者とのモックアップやり取り工数の削減
 
@@ -157,21 +114,9 @@
 
 - 主な職務
 
-  - サービス運用
-  - アーキテクチャ検討
-  - 負荷試験
-  - 障害、緊急対応
+  - サービス運用,障害/緊急対応
+  - アーキテクチャ検討,負荷試験
   - デプロイ対応
-
-- 利用技術、ツール
-
-  - AWS 全般
-  - JMeter
-  - Linux(RHEL)
-  - Docker
-  - Rundeck
-  - Redmine
-  - Backlog
 
 - 実績
   - 主に緊急時の影響調査、原因調査、アーキテクチャ検討、デプロイスケジュール、デプロイ作業を担当
@@ -184,16 +129,14 @@
 
 - 主な職務
 
-  - 新機能実装時の技術選定
-  - 技術検証
+  - 新機能実装時の技術選定,検証,プロトタイプ作成
   - 新人研修、技術研修カリキュラムの作成
-  - プロトタイプ作成
 
 - 実績
   - サーバレスや Docker などモダン技術の浸透のため定期的に勉強会を開催
   - S3 + Lambda + API Gateway のサーバレスアーキテクチャを本番サービスに採用
   - git-flow を取り入れエクセル管理のコードレビューは PL 形式へと変更
-  - 新入社員研修時の研修カリキュラムを作成(累計)
+  - 新人配属時研修時の研修カリキュラムを作成
   - 様々なプロトタイプ、モックアップを作成(OAuth2 プロバイダ、WebSocket ドライバー等)
 
 ### 2014/04 - 2017/09 : コンテンツプロバイダ企業
@@ -202,20 +145,13 @@
 
 - 主な職務
 
-  - サービス監視運用保守
-  - サーバ構築
+  - サービス監視運用保守,サーバ構築
   - 障害対応、一時切り分け、再発防止
-
-- 利用技術、ツール
-
-  - オンプレミスサーバ、アプライアンスネットワーク機器等
-  - Linux(RHEL,Debian)
-  - PHP,JavaScript
 
 - 実績
   - 200 台を超えるサーバの監視運用保守を実施
   - 監視だけでなく、切り分け、1 次対応、原因調査、再発防止を一貫して実施
-  - 運用観点で再発防止案をクライアントに提案まで行うマルチな技術対応を実施
+  - 運用観点で再発防止案をクライアントに提案まで行うマルチな技術支援を実施
   - 某キャリアサイトのトップページ掲載コンテンツのサーバを構築。大規模アクセスを見越したアーキテクチャを構築。
   - 社内ネットワークの調整や拠点増加時の VPN 構築、サーベイから床下配線まで一貫して経験
   - 独学で PHP を使い社内ワークフローシステムの運用、改善を実施
@@ -230,14 +166,6 @@
 
   - 教室での質問対応
   - コードレビュー、PF テーマレビュー
-
-- 利用技術
-
-  - JavaScript(ES6)
-  - Ruby on Rails(5,6)
-  - Vue.js,React.js
-  - RSpec
-  - Docker
 
 - 実績
   - クラウドワークスにて取得した案件、教室での生徒さんの質問対応を主に対応
@@ -254,7 +182,7 @@
 - 主な職務
 
   - メール配信機能の実装
-  - AWS SES の設定
+  - AWS SES の設定,実装
 
 - 実績
 
@@ -275,7 +203,7 @@
 
   - クラウドワークスにて取得したスポットの案件、老人ホーム費用計算ツールをスクラッチで作成
   - クライアントと 0 から仕様を詰め、製造から納品までを経験
-  - 利用規模と予算から極力手間がかからず、安い方法としてフルサーバレス(Lambda + S3 + API Gateway)を採用
+  - 利用規模と予算から極力手間がかからず、安価な方法としてフルサーバレス(Lambda + S3 + API Gateway)を採用
   - 開発期間がタイトだったため、極力クライアントを開発フローに巻き込み、動作確認を依頼できるよう関係性、スキームを構築
 
 ## 課外活動
