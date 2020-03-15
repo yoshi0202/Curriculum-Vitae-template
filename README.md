@@ -215,7 +215,7 @@
 
 ### 資格
 
-- AWS Solutions Architect Associate(2019/12 〜)
+- AWS Solutions Architect Associate(2018/12 〜)
 - 認定スクラムマスター(2020/03 予定)
 
 ### 運用サービス、ホームページ
