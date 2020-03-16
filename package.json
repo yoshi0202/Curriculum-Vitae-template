@@ -1,7 +1,6 @@
 {
   "name": "curriculum-vitae",
   "version": "1.0.0",
-  "description": "## 基本情報",
   "main": "index.js",
   "dependencies": {
     "add": "^2.0.6",
@@ -9,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "pdf": "npx md-to-pdf README.md"
+    "zip": "rm -rf RESUME.zip && zip RESUME.zip *.pdf",
+    "pdf": "npx md-to-pdf README.md && npm run zip"
   },
   "repository": {
     "type": "git",
