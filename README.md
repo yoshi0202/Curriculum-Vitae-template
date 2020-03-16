@@ -30,7 +30,7 @@
 ### 言語、フレームワーク（業務未使用）
 
 - Vue.js,Vuetify,ReactNative
-- Python(numpy,pandas)
+- Python(Numpy,pandas,TensorFlow)
 - Perl(CGI)
 - Flutter
 - RSpec,Jest
@@ -52,12 +52,12 @@
   - FireWall
   - L2SW/L3SW
   - LoadBalancer
-  - 物理サーバの監視運用保守、配線、ラッキング
+  - アプライアンス機器の監視運用保守、配線、ラッキング
 
 ### ミドルウェア
 
 - apache2(2.2,2.4),Nginx
-- MySQL,MariaDB,PostgreSQL,Redis,memcached
+- MySQL,MariaDB,PostgreSQL,Redis,Memcache
 - Keepalived,Fluentd
 
 ### ツール
@@ -216,7 +216,7 @@
 ### 資格
 
 - AWS Solutions Architect Associate(2018/12 〜)
-- 認定スクラムマスター(2020/03 予定)
+- 認定スクラムマスター(2020/04 予定)
 
 ### 運用サービス、ホームページ
 
